@@ -17,6 +17,7 @@
         "description": "I am a neato window.  Neato + Sauce = Fun",
         "always_visible": false,
         "overlay": true,
+        "frame": true,
         "default_bounds": {
             "width": 0.5,
             "height": 500,
