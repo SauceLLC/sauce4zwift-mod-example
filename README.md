@@ -26,19 +26,23 @@ look something like this...
     "description": "I make things neato",
     "version": "0.0.1",
     "content_js": [
-        "./contents/run_everywhere.mjs"
+        "contents/run_everywhere.mjs"
     ],
     "content_css": [
-        "./contents/see_everywhere.css"
+        "contents/see_everywhere.css"
     ],
     "web_root": "pages",
     "windows": [{
-        "page": "pages/neato.html",
+        "file": "pages/neato.html",
+        "query": {
+            "foo": "bar"
+        },
         "id": "neato-fun",
         "name": "Neato Mod",
         "description": "I am a neato window.  Neato + Sauce = Fun",
         "always_visible": false,
         "overlay": true,
+        "frame": true,
         "default_bounds": {
             "width": 0.5,
             "height": 500,
