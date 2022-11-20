@@ -24,6 +24,8 @@ look something like this...
     "manifest_version": 1,
     "name": "The Neato Mod",
     "description": "I make things neato",
+    "author": "Justin Mayfield",
+    "website_url": "https://saucellc.io",
     "version": "0.0.1",
     "content_js": [
         "contents/run_everywhere.mjs"
