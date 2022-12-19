@@ -6,10 +6,12 @@
     "website_url": "https://saucellc.io",
     "version": "0.0.1",
     "content_js": [
-        "contents/run_everywhere.mjs"
+        "contents/run_everywhere.js",
+        "contents/theme.js"
     ],
     "content_css": [
-        "contents/see_everywhere.css"
+        "contents/see_everywhere.css",
+        "contents/theme.css"
     ],
     "web_root": "pages",
     "windows": [{
