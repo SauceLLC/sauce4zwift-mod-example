@@ -42,7 +42,6 @@ look something like this...
         "id": "neato-fun",
         "name": "Neato Mod",
         "description": "I am a neato window.  Neato + Sauce = Fun",
-        "always_visible": false,
         "overlay": true,
         "frame": true,
         "default_bounds": {
