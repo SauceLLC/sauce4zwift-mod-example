@@ -3,10 +3,11 @@
     "name": "The Neato Mod",
     "description": "I make things neato",
     "author": "Justin Mayfield",
-    "website_url": "https://saucellc.io",
-    "version": "0.0.1",
+    "website_url": "https://www.sauce.llc",
+    "version": "0.0.2",
     "content_js": [
         "contents/run_everywhere.js",
+        "contents/add_a_data_field.js",
         "contents/theme.js"
     ],
     "content_css": [
